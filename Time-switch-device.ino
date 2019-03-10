@@ -76,7 +76,7 @@ void loop() {
 					switch (choiceLevel) {
 					case 1: choiceTimer++;
 						break;
-					case 2: choiceStartOrEnd = true;
+					case 2: choiceStartOrEnd = false;
 						break;
 					case 3: choiceHMS++;
 						break;
@@ -183,7 +183,7 @@ void loop() {
 					switch (choiceLevel) {
 					case 1: choiceTimer--;
 						break;
-					case 2: choiceStartOrEnd = false;
+					case 2: choiceStartOrEnd = true;
 						break;
 					case 3: choiceHMS--;
 						break;
