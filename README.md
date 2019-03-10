@@ -1,4 +1,4 @@
-This device turns on and off another device depending on the time you can configure.
+This ArduinoDevice turns on and off another device depending on the time you can configure.
 
 For example:
   09:00 - 12:00 - on
