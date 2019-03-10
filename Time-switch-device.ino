@@ -5,7 +5,6 @@
 	#include <EEPROM.h>
 	#include <iarduino_RTC.h>
 //EEPROM//
-//Variables//
 	//Encoder//
 		byte clk = 2;
 		byte dat = 3;
