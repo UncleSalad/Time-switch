@@ -36,3 +36,5 @@ Setting:
 * 43.LiquidCrystal_I2C lsd(0x3f(address), 16, 2);
 3. DS1302:
 * 44.iarduino_RTC time(RTC_DS1302, 10(RST), 13(CLK), 12(DAT);
+4. Relay/MOSFET:
+* 15.byte relay_pin = 7;
