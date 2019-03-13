@@ -1,4 +1,4 @@
-Time switch device
+Time switch device v1.0
 ==================
 This ArduinoDevice turns on and off another device depending on the time you can configure.
 
