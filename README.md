@@ -8,7 +8,7 @@ For example:
   3. 20:00 - 22:00 - on
 ***
 Connection:
-===
+---
 *if the settings are standard*
 1. Encoder:
 * clk - 2
@@ -25,7 +25,7 @@ Connection:
 * in - 7
 ***
 Setting:
-===
+---
 1. Encoder:
 * 9.byte clk = 2;
 *	10.byte dat = 3;
