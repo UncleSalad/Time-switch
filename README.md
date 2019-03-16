@@ -1,6 +1,6 @@
-Time switch device v1.0
+Time switch v1.0
 ==================
-This ArduinoDevice turns on and off another device depending on the time you can configure.
+This device turns on and off another device depending on the time you can configure.
 
 For example:
   1. 09:00 - 12:00 - on
@@ -22,7 +22,7 @@ Connection:
 * dat - 12
 * rst - 10
 4. Relay/MOSFET
-* in - 7
+* out - 7
 ***
 Setting:
 ---
